@@ -3,7 +3,7 @@
  * Plugin Name: Usage Tracking
  * Description: Tracks media usage across all posts/pages with view counts, scrollable table, sticky columns, and improved layout.
  * Version: 1.6
- * Author: Your Name
+ * Author: A problem solver 🥱
  */
 
 if (!defined('ABSPATH')) exit;
